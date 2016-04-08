@@ -1,0 +1,12 @@
+﻿[unknown module pid (4944)]
+SIZE=0
+SAMPS=1
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=1
+4944,4948,1,1,[1 0] 1,0x774fb8a6
+[SUB_END]
+[END]
+

@@ -1,0 +1,13 @@
+﻿[C:\windows\SysWOW64\DUser.dll]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x7fefbf80000
+LINECOUNT=1
+244,9128,1,1,[2 0] 1,0x12d0
+[SUB_END]
+[END]
+

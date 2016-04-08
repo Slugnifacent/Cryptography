@@ -1,0 +1,19 @@
+﻿[C:\Program Files (x86)\Google\Chrome\Application\23.0.1271.64\chrome.dll]
+SIZE=0
+SAMPS=7
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x5c720000
+LINECOUNT=7
+3820,2264,1,1,[3 0] 1,0x1bb66
+3820,2264,1,1,[0 0] 1,0x23aa2
+5348,2756,1,1,[0 0] 1,0x2d3d4
+5348,2756,1,1,[0 0] 1,0x3633a
+3820,2264,1,1,[2 0] 1,0x25e4e7
+3820,2264,1,1,[0 0] 1,0x2a726d
+5348,2756,1,1,[0 0] 1,0x4e7660
+[SUB_END]
+[END]
+

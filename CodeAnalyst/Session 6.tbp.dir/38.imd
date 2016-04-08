@@ -1,0 +1,14 @@
+﻿[C:\windows\SysWOW64\wmp.dll]
+SIZE=0
+SAMPS=2
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x30260000
+LINECOUNT=2
+6116,6056,1,1,[1 0] 1,0x1dbb
+6116,4276,1,1,[2 0] 1,0xda39
+[SUB_END]
+[END]
+

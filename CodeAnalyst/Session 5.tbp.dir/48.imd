@@ -1,0 +1,14 @@
+﻿[C:\windows\System32\Drivers\Npfs.SYS]
+SIZE=0
+SAMPS=2
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff88004b6c000
+LINECOUNT=2
+6988,7352,1,1,[0 0] 1,0x678d
+6884,4404,1,1,[0 0] 1,0xc5bf
+[SUB_END]
+[END]
+

@@ -1,0 +1,13 @@
+﻿[C:\Users\Developer\Documents\Visual Studio 2010\Projects\TextTransformer\Debug\TextTransformer.exe]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x1050000
+LINECOUNT=1
+4228,9020,1,1,[1 0] 1,0x14eed
+[SUB_END]
+[END]
+

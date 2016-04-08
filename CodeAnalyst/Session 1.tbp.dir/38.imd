@@ -1,0 +1,13 @@
+﻿[C:\windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Vae4913d6#\4bae6831b629e75dbdeb23aad9510f97\Microsoft.VisualStudio.Platform.AppDomainManager.ni.dll]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x74850000
+LINECOUNT=1
+6052,2964,1,1,[2 0] 1,0x32f8
+[SUB_END]
+[END]
+

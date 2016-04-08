@@ -1,0 +1,13 @@
+﻿[C:\Program Files\WIDCOMM\Bluetooth Software\BtMmHook.dll]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x10000000
+LINECOUNT=1
+5180,6212,1,1,[0 0] 1,0x19b0f
+[SUB_END]
+[END]
+

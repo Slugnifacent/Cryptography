@@ -1,0 +1,14 @@
+﻿[C:\windows\SysWOW64\igdumd32.dll]
+SIZE=0
+SAMPS=2
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x64b0000
+LINECOUNT=2
+8444,8424,1,1,[1 0] 1,0x128e5e
+8444,8424,1,1,[1 0] 1,0x17ceb4
+[SUB_END]
+[END]
+

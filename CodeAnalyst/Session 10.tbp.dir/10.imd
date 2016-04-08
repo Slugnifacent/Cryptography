@@ -1,0 +1,14 @@
+﻿[C:\windows\Microsoft.NET\Framework\v4.0.30319\WPF\wpfgfx_v0400.dll]
+SIZE=0
+SAMPS=2
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x56bd0000
+LINECOUNT=2
+8444,8424,1,1,[1 0] 1,0x6a58
+8444,8604,1,1,[2 0] 1,0x6a60d
+[SUB_END]
+[END]
+

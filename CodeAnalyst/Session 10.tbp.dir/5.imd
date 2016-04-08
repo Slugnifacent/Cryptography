@@ -1,0 +1,13 @@
+﻿[C:\Program Files (x86)\Steam\tier0_s.dll]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x74160000
+LINECOUNT=1
+1140,4212,1,1,[3 0] 1,0xe3cf
+[SUB_END]
+[END]
+

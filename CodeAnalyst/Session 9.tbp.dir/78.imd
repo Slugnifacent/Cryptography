@@ -1,0 +1,12 @@
+﻿[unknown module pid (8660)]
+SIZE=0
+SAMPS=1
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=1
+8660,3004,1,1,[0 0] 1,0x77075a50
+[SUB_END]
+[END]
+

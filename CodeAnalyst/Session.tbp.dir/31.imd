@@ -1,0 +1,13 @@
+﻿[C:\windows\System32\drivers\tcpip.sys]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff88002000000
+LINECOUNT=1
+6052,2964,1,1,[2 0] 1,0x81925
+[SUB_END]
+[END]
+

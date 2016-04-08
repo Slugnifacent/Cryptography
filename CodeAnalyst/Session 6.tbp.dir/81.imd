@@ -1,0 +1,14 @@
+﻿[unknown module pid (6884)]
+SIZE=0
+SAMPS=3
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=3
+6884,5500,1,1,[0 0] 1,0x3904165
+6884,5500,1,1,[0 0] 1,0x3ab3445
+6884,5500,1,1,[0 0] 1,0x3abcabe
+[SUB_END]
+[END]
+

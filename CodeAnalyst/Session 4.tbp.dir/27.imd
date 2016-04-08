@@ -1,0 +1,14 @@
+﻿[C:\windows\SysWOW64\dwmredir.dll]
+SIZE=0
+SAMPS=2
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x7fef47b0000
+LINECOUNT=2
+2600,2932,1,1,[3 0] 1,0x1170
+2600,2932,1,1,[3 0] 1,0x1478
+[SUB_END]
+[END]
+

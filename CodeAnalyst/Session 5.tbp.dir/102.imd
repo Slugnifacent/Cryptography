@@ -1,0 +1,12 @@
+﻿[unknown module pid (976)]
+SIZE=0
+SAMPS=1
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=1
+976,5912,1,1,[1 0] 1,0x77605e6b
+[SUB_END]
+[END]
+

@@ -1,0 +1,13 @@
+﻿[C:\windows\assembly\NativeImages_v4.0.30319_32\Microsoft.V3a07fdce#\6cb289ef159af2f966a40d89d69b37bc\Microsoft.VisualStudio.Project.Framework.Implementation.ni.dll]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x51710000
+LINECOUNT=1
+8444,8604,1,1,[0 0] 1,0x15901
+[SUB_END]
+[END]
+

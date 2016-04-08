@@ -1,0 +1,13 @@
+﻿[C:\windows\System32\kernel32.dll]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x77060000
+LINECOUNT=1
+8116,3892,1,1,[0 0] 1,0xe022
+[SUB_END]
+[END]
+

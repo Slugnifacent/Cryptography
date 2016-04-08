@@ -1,0 +1,17 @@
+﻿[C:\Program Files (x86)\Google\Chrome\Application\23.0.1271.64\PepperFlash\pepflashplayer.dll]
+SIZE=0
+SAMPS=5
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x60000000
+LINECOUNT=5
+6884,5500,1,1,[3 0] 1,0x3ce0d
+6884,5500,1,1,[1 0] 1,0x86ffb
+6884,5500,1,1,[3 0] 1,0xb0451
+6884,5500,1,1,[0 0] 1,0x13e827
+6884,5500,1,1,[2 0] 1,0x882285
+[SUB_END]
+[END]
+

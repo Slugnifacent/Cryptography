@@ -1,0 +1,13 @@
+﻿[C:\windows\System32\win32k.sys]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff96000060000
+LINECOUNT=1
+8776,1132,1,1,[3 0] 1,0xcfaf3
+[SUB_END]
+[END]
+

@@ -1,0 +1,16 @@
+﻿[C:\Program Files (x86)\Google\Chrome\Application\23.0.1271.64\libglesv2.dll]
+SIZE=0
+SAMPS=4
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x671a0000
+LINECOUNT=4
+4804,672,1,1,[0 0] 1,0x17ac9
+4804,672,1,1,[0 0] 1,0x1912d
+4804,672,1,1,[0 0] 1,0x1cffb
+4804,672,1,1,[3 0] 1,0x55707
+[SUB_END]
+[END]
+

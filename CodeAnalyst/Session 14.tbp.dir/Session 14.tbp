@@ -1,0 +1,40 @@
+﻿TBPFILEVERSION=12
+[ENV]
+CPU=4
+NumEvents=1
+MODULES=16
+SAMPS=4871
+TIMESTAMP=Wed Nov 7 23:36:51 2012
+MISSED=0
+CPUFAMILY=6,10
+Event 0,4095,10
+TOPOLOGY,0,0,0
+TOPOLOGY,1,0,0
+TOPOLOGY,2,1,1
+TOPOLOGY,3,1,1
+TOTAL=[0 0] 1366,[1 0] 837,[2 0] 2482,[3 0] 186
+[END]
+
+[PROCESSDATA]
+8420,4871,4,[0 0] 1366,[1 0] 837,[2 0] 2482,[3 0] 186,1,1,C:\Users\Developer\Documents\Visual Studio 2010\Projects\TextTransformer\Debug\TextTransformer.exe
+[END]
+
+[MODDATA]
+8420,1854,4,[0 0] 657,[1 0] 276,[2 0] 845,[3 0] 76,1,C:\Users\Developer\Documents\Visual Studio 2010\Projects\TextTransformer\Debug\TextTransformer.exe
+8420,763,4,[0 0] 270,[1 0] 111,[2 0] 350,[3 0] 32,1,C:\Windows\SysWOW64\ntdll.dll
+8420,1,1,[1 0] 1,1,C:\windows\SysWOW64\KernelBase.dll
+8420,724,4,[0 0] 229,[1 0] 97,[2 0] 365,[3 0] 33,1,C:\windows\SysWOW64\msvcr100d.dll
+8420,8,3,[0 0] 1,[1 0] 2,[2 0] 5,1,C:\windows\SysWOW64\ntdll.dll
+8420,23,3,[0 0] 2,[1 0] 3,[2 0] 18,1,C:\windows\SysWOW64\wow64.dll
+8420,19,2,[1 0] 2,[2 0] 17,1,C:\windows\SysWOW64\wow64cpu.dll
+8420,1,1,[2 0] 1,0,C:\windows\System32\Drivers\Ntfs.sys
+8420,1,1,[0 0] 1,0,C:\windows\System32\drivers\dxgkrnl.sys
+8420,7,1,[0 0] 7,0,C:\windows\system32\DRIVERS\iaStor.sys
+8420,5,1,[0 0] 5,0,C:\windows\system32\DRIVERS\igdkmd64.sys
+8420,2,2,[2 0] 1,[3 0] 1,0,C:\windows\system32\DRIVERS\intelppm.sys
+8420,1,1,[2 0] 1,0,C:\windows\system32\drivers\NETIO.SYS
+8420,1,1,[0 0] 1,0,C:\windows\system32\drivers\Wdf01000.sys
+8420,2,2,[0 0] 1,[2 0] 1,0,C:\windows\system32\hal.dll
+8420,1459,4,[0 0] 192,[1 0] 345,[2 0] 878,[3 0] 44,0,C:\windows\system32\ntoskrnl.exe
+[END]
+

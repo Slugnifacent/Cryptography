@@ -1,0 +1,19 @@
+﻿[C:\windows\System32\Drivers\Ntfs.sys]
+SIZE=0
+SAMPS=7
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff88001a15000
+LINECOUNT=7
+1836,4088,1,1,[3 0] 1,0xd79c
+8312,8536,1,1,[2 0] 1,0xe418
+1836,2848,1,1,[1 0] 1,0xe750
+1836,3364,1,1,[2 0] 1,0x99356
+1836,3364,1,1,[2 0] 1,0x9ced0
+1836,3364,1,1,[2 0] 1,0x9fd0c
+8996,6708,1,1,[2 0] 1,0xbff2c
+[SUB_END]
+[END]
+

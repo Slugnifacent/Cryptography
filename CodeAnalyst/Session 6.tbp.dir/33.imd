@@ -1,0 +1,13 @@
+﻿[C:\windows\SysWOW64\msvcr100d.dll]
+SIZE=0
+SAMPS=3
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x630000
+LINECOUNT=1
+4532,8404,3,1,[2 0] 3,0x7d22f
+[SUB_END]
+[END]
+

@@ -1,0 +1,15 @@
+﻿[C:\windows\SysWOW64\wow64.dll]
+SIZE=0
+SAMPS=3
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x736d0000
+LINECOUNT=3
+5784,5808,1,1,[0 0] 1,0xa8e0
+6884,5500,1,1,[1 0] 1,0xceb0
+9164,6636,1,1,[1 0] 1,0xcfe1
+[SUB_END]
+[END]
+

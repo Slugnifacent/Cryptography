@@ -1,0 +1,13 @@
+﻿[C:\windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Vc1ae403b#\f30e94f64470489bdad8c2efa94cd152\Microsoft.VisualStudio.Shell.ViewManager.ni.dll]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x568b0000
+LINECOUNT=1
+6052,2964,1,1,[2 0] 1,0x44268
+[SUB_END]
+[END]
+

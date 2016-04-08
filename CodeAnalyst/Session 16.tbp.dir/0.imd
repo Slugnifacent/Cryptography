@@ -1,0 +1,13 @@
+﻿[C:\windows\SysWOW64\msvcp100d.dll]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfa70000
+LINECOUNT=1
+8776,1132,1,1,[0 0] 1,0x17970
+[SUB_END]
+[END]
+

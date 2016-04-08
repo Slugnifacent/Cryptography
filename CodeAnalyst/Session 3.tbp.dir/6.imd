@@ -1,0 +1,13 @@
+﻿[C:\Program Files (x86)\Google\Chrome\Application\chrome.exe]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x13a0000
+LINECOUNT=1
+9164,4392,1,1,[2 0] 1,0x81e56
+[SUB_END]
+[END]
+

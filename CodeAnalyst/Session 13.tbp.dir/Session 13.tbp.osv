@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<OSV version="1" >
+	<Entry hdr="Target Application Info" >
+		<Entry hdr="PID : 6504" val="C:\Users\Developer\Documents\Visual Studio 2010\Projects\TextTransformer\Debug\TextTransformer.exe" >
+			<Entry hdr="TID : 8968" val="0.551 sec" />
+		</Entry>
+	</Entry>
+	<Entry hdr="System-wide Profile" >
+		<Entry hdr="Number of Processes" val="1  [View Processes]" lnk = "proc:Session 13.tbp" />
+		<Entry hdr="Number of Modules" val="6  [View Modules]" lnk = "sys:Session 13.tbp" />
+	</Entry>
+	<Entry hdr="Utilization" >
+		<Entry hdr="Avg System CPU Utilization" val="14 %" >
+			<Entry hdr="Avg Core 0 Utilization" val="32.25 %" />
+			<Entry hdr="Avg Core 1 Utilization" val="8.75 %" />
+			<Entry hdr="Avg Core 2 Utilization" val="8.75 %" />
+			<Entry hdr="Avg Core 3 Utilization" val="6.25 %" />
+		</Entry>
+		<Entry hdr="Avg System Memory Utilization" val="66 %" >
+			<Entry hdr="Virtual Memory (MB)" val="4194.18" />
+			<Entry hdr="Physical Memory (MB)" val="4194.3" />
+		</Entry>
+		<Entry hdr="Avg Process Utilization (PID : 6504)" val="cpu 0% : mem 0%" lnk = "tlv:6504" />
+	</Entry>
+</OSV>

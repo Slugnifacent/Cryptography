@@ -1,0 +1,38 @@
+﻿TBPFILEVERSION=12
+[ENV]
+CPU=4
+NumEvents=1
+MODULES=14
+SAMPS=4624
+TIMESTAMP=Wed Nov 7 23:37:21 2012
+MISSED=0
+CPUFAMILY=6,10
+Event 0,4095,10
+TOPOLOGY,0,0,0
+TOPOLOGY,1,0,0
+TOPOLOGY,2,1,1
+TOPOLOGY,3,1,1
+TOTAL=[0 0] 553,[1 0] 1330,[2 0] 2645,[3 0] 96
+[END]
+
+[PROCESSDATA]
+6648,4624,4,[0 0] 553,[1 0] 1330,[2 0] 2645,[3 0] 96,1,1,C:\Users\Developer\Documents\Visual Studio 2010\Projects\TextTransformer\Debug\TextTransformer.exe
+[END]
+
+[MODDATA]
+6648,1763,4,[0 0] 162,[1 0] 522,[2 0] 1040,[3 0] 39,1,C:\Users\Developer\Documents\Visual Studio 2010\Projects\TextTransformer\Debug\TextTransformer.exe
+6648,751,4,[0 0] 76,[1 0] 198,[2 0] 465,[3 0] 12,1,C:\Windows\SysWOW64\ntdll.dll
+6648,635,4,[0 0] 50,[1 0] 201,[2 0] 373,[3 0] 11,1,C:\windows\SysWOW64\msvcr100d.dll
+6648,3,2,[1 0] 1,[2 0] 2,1,C:\windows\SysWOW64\ntdll.dll
+6648,19,3,[0 0] 4,[1 0] 3,[2 0] 12,1,C:\windows\SysWOW64\wow64.dll
+6648,19,3,[0 0] 4,[1 0] 4,[2 0] 11,1,C:\windows\SysWOW64\wow64cpu.dll
+6648,1,1,[0 0] 1,0,C:\windows\system32\DRIVERS\USBPORT.SYS
+6648,1,1,[0 0] 1,0,C:\windows\system32\DRIVERS\iaStor.sys
+6648,2,1,[0 0] 2,0,C:\windows\system32\DRIVERS\igdkmd64.sys
+6648,1,1,[2 0] 1,0,C:\windows\system32\DRIVERS\klif.sys
+6648,1,1,[0 0] 1,0,C:\windows\system32\DRIVERS\usbehci.sys
+6648,1,1,[2 0] 1,0,C:\windows\system32\drivers\fltmgr.sys
+6648,1,1,[0 0] 1,0,C:\windows\system32\hal.dll
+6648,1426,4,[0 0] 251,[1 0] 401,[2 0] 740,[3 0] 34,0,C:\windows\system32\ntoskrnl.exe
+[END]
+

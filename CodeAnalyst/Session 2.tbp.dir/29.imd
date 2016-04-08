@@ -1,0 +1,13 @@
+﻿[C:\windows\SysWOW64\uxtheme.dll]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x6c320000
+LINECOUNT=1
+6052,2964,1,1,[2 0] 1,0x124ee
+[SUB_END]
+[END]
+

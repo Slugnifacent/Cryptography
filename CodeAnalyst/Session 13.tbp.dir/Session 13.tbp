@@ -1,0 +1,30 @@
+﻿TBPFILEVERSION=12
+[ENV]
+CPU=4
+NumEvents=1
+MODULES=6
+SAMPS=12
+TIMESTAMP=Wed Nov 7 23:35:05 2012
+MISSED=0
+CPUFAMILY=6,10
+Event 0,4095,10
+TOPOLOGY,0,0,0
+TOPOLOGY,1,0,0
+TOPOLOGY,2,1,1
+TOPOLOGY,3,1,1
+TOTAL=[0 0] 7,[1 0] 3,[2 0] 1,[3 0] 1
+[END]
+
+[PROCESSDATA]
+6504,12,4,[0 0] 7,[1 0] 3,[2 0] 1,[3 0] 1,1,1,C:\Users\Developer\Documents\Visual Studio 2010\Projects\TextTransformer\Debug\TextTransformer.exe
+[END]
+
+[MODDATA]
+6504,1,1,[0 0] 1,1,C:\windows\SysWOW64\msvcp100d.dll
+6504,2,1,[0 0] 2,1,C:\windows\SysWOW64\wow64cpu.dll
+6504,1,1,[3 0] 1,0,C:\windows\System32\Drivers\Ntfs.sys
+6504,1,1,[0 0] 1,0,C:\windows\System32\win32k.sys
+6504,1,1,[1 0] 1,0,C:\windows\system32\drivers\fltmgr.sys
+6504,6,3,[0 0] 3,[1 0] 2,[2 0] 1,0,C:\windows\system32\ntoskrnl.exe
+[END]
+

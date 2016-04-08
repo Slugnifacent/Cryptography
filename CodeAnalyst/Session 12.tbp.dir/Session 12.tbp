@@ -1,0 +1,28 @@
+﻿TBPFILEVERSION=12
+[ENV]
+CPU=4
+NumEvents=1
+MODULES=4
+SAMPS=17
+TIMESTAMP=Wed Nov 7 23:33:14 2012
+MISSED=0
+CPUFAMILY=6,10
+Event 0,4095,10
+TOPOLOGY,0,0,0
+TOPOLOGY,1,0,0
+TOPOLOGY,2,1,1
+TOPOLOGY,3,1,1
+TOTAL=[0 0] 2,[1 0] 8,[2 0] 7
+[END]
+
+[PROCESSDATA]
+6844,17,3,[0 0] 2,[1 0] 8,[2 0] 7,1,0,C:\Users\Developer\Documents\Visual Studio 2010\Projects\TextTransformer\Debug\TextTransformer.exe
+[END]
+
+[MODDATA]
+6844,3,3,[0 0] 1,[1 0] 1,[2 0] 1,1,C:\Windows\SysWOW64\ntdll.dll
+6844,1,1,[2 0] 1,0,C:\windows\system32\DRIVERS\klif.sys
+6844,4,1,[2 0] 4,0,C:\windows\system32\drivers\fltmgr.sys
+6844,9,3,[0 0] 1,[1 0] 7,[2 0] 1,0,C:\windows\system32\ntoskrnl.exe
+[END]
+

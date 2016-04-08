@@ -1,0 +1,18 @@
+﻿[C:\Program Files (x86)\Steam\steamclient.dll]
+SIZE=0
+SAMPS=7
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x38000000
+LINECOUNT=6
+1140,4212,1,1,[1 0] 1,0x3a2fe
+1140,4212,2,2,[0 0] 1,[3 0] 1,0x3a302
+1140,6472,1,1,[0 0] 1,0x11e803
+1140,6472,1,1,[1 0] 1,0x13480d
+1140,7592,1,1,[2 0] 1,0x2ccaa4
+1140,4212,1,1,[0 0] 1,0x30ffcf
+[SUB_END]
+[END]
+

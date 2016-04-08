@@ -1,0 +1,13 @@
+﻿[C:\windows\system32\drivers\Wdf01000.sys]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff88000e90000
+LINECOUNT=1
+7660,4656,1,1,[0 0] 1,0x2e3fc
+[SUB_END]
+[END]
+

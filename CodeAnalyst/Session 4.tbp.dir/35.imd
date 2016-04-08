@@ -1,0 +1,14 @@
+﻿[C:\windows\SysWOW64\ntshrui.dll]
+SIZE=0
+SAMPS=2
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x7fef3c20000
+LINECOUNT=2
+244,4328,1,1,[0 0] 1,0x1891
+244,4328,1,1,[1 0] 1,0x7268
+[SUB_END]
+[END]
+

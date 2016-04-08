@@ -1,0 +1,15 @@
+﻿[C:\windows\Explorer.EXE]
+SIZE=0
+SAMPS=3
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xffb80000
+LINECOUNT=3
+244,4124,1,1,[0 0] 1,0x3985
+244,4124,1,1,[1 0] 1,0x3bfb
+244,4124,1,1,[1 0] 1,0x504c
+[SUB_END]
+[END]
+

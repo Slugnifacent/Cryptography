@@ -1,0 +1,19 @@
+﻿[C:\windows\assembly\NativeImages_v4.0.30319_32\mscorlib\bcee5d59d5cc1be6caddd114461e60b6\mscorlib.ni.dll]
+SIZE=0
+SAMPS=8
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x5ae10000
+LINECOUNT=7
+8444,8604,2,2,[0 0] 1,[1 0] 1,0x2d13b1
+8444,8604,1,1,[2 0] 1,0x2d144d
+8444,8604,1,1,[0 0] 1,0x2d38a1
+8444,8604,1,1,[0 0] 1,0x2d38bc
+8444,8604,1,1,[3 0] 1,0x2d3928
+8444,8604,1,1,[3 0] 1,0x32f163
+8444,8604,1,1,[2 0] 1,0x335ea2
+[SUB_END]
+[END]
+

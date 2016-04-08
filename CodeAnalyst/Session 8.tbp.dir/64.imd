@@ -1,0 +1,14 @@
+﻿[C:\windows\system32\DRIVERS\usbehci.sys]
+SIZE=0
+SAMPS=2
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff880045bc000
+LINECOUNT=2
+0,0,1,1,[0 0] 1,0x7b5f
+244,4328,1,1,[0 0] 1,0x7b71
+[SUB_END]
+[END]
+

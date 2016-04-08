@@ -1,0 +1,12 @@
+﻿[unknown module pid (3408)]
+SIZE=0
+SAMPS=1
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=1
+3408,2844,1,1,[1 0] 1,0x6f37bd4d
+[SUB_END]
+[END]
+

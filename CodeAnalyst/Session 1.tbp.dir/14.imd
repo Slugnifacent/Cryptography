@@ -1,0 +1,14 @@
+﻿[C:\windows\SysWOW64\UIAnimation.dll]
+SIZE=0
+SAMPS=2
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x7fef0b10000
+LINECOUNT=2
+244,4124,1,1,[0 0] 1,0x13b8
+244,4124,1,1,[0 0] 1,0x4cb8
+[SUB_END]
+[END]
+

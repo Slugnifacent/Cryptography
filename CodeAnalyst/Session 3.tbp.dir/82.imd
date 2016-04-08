@@ -1,0 +1,14 @@
+﻿[unknown module pid (5060)]
+SIZE=0
+SAMPS=3
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=3
+5060,6008,1,1,[0 0] 1,0x68eda617
+5060,6008,1,1,[0 0] 1,0x68edf566
+5060,5772,1,1,[0 0] 1,0x777fdf85
+[SUB_END]
+[END]
+

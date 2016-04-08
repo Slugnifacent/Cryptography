@@ -1,0 +1,15 @@
+﻿[C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\vcpackages\VCProject.dll]
+SIZE=0
+SAMPS=3
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x51a60000
+LINECOUNT=3
+8444,8604,1,1,[0 0] 1,0x32b9
+8444,8604,1,1,[1 0] 1,0x1d0ad
+8444,8604,1,1,[0 0] 1,0x93d73
+[SUB_END]
+[END]
+

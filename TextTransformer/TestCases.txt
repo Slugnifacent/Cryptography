@@ -1,0 +1,17 @@
+Character Interpretation,
+upper case
+lower case
+special ASCII Characters  !@#$%^&*
+Characters outside of scope like Tab, Shift, pgDN
+ 
+Stress
+File sizes, Extremely Large File Sizes
+Correct translations
+integer bounds
+
+Combination Stress test;
+letters with numbers, numbers with letters
+positive and negative numbers
+
+
+Memory Leaks

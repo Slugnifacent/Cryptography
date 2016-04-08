@@ -1,0 +1,15 @@
+﻿[C:\windows\System32\usp10.dll]
+SIZE=0
+SAMPS=3
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x7feff630000
+LINECOUNT=3
+8116,3892,1,1,[2 0] 1,0xeba9
+8116,3892,1,1,[0 0] 1,0x46a95
+8116,3892,1,1,[0 0] 1,0x7a275
+[SUB_END]
+[END]
+

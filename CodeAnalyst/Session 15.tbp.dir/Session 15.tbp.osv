@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<OSV version="1" >
+	<Entry hdr="Target Application Info" >
+		<Entry hdr="PID : 6648" val="C:\Users\Developer\Documents\Visual Studio 2010\Projects\TextTransformer\Debug\TextTransformer.exe" >
+			<Entry hdr="TID : 9152" val="4.851 sec" />
+		</Entry>
+	</Entry>
+	<Entry hdr="System-wide Profile" >
+		<Entry hdr="Number of Processes" val="1  [View Processes]" lnk = "proc:Session 15.tbp" />
+		<Entry hdr="Number of Modules" val="14  [View Modules]" lnk = "sys:Session 15.tbp" />
+		<Entry hdr="Call-Stack Sampling (CSS) Info" >
+			<Entry hdr=" PID : 6648" val="[C:\Users\Developer\Documents\Visual Studio 2010\Projects\TextTransformer\Debug\TextTransformer.exe]" lnk = "css:6648.css" />
+		</Entry>
+	</Entry>
+	<Entry hdr="Utilization" >
+		<Entry hdr="Avg System CPU Utilization" val="28.8333 %" >
+			<Entry hdr="Avg Core 0 Utilization" val="19.5 %" />
+			<Entry hdr="Avg Core 1 Utilization" val="32.9167 %" />
+			<Entry hdr="Avg Core 2 Utilization" val="58.5 %" />
+			<Entry hdr="Avg Core 3 Utilization" val="5.75 %" />
+		</Entry>
+		<Entry hdr="Avg System Memory Utilization" val="63.4167 %" >
+			<Entry hdr="Virtual Memory (MB)" val="4194.18" />
+			<Entry hdr="Physical Memory (MB)" val="4194.3" />
+		</Entry>
+		<Entry hdr="Avg Process Utilization (PID : 6648)" val="cpu 17.25% : mem 0%" lnk = "tlv:6648" />
+	</Entry>
+</OSV>

@@ -1,0 +1,13 @@
+﻿[C:\windows\System32\KernelBase.dll]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x7fefdb00000
+LINECOUNT=1
+8816,8384,1,1,[2 0] 1,0x1377
+[SUB_END]
+[END]
+

@@ -1,0 +1,15 @@
+﻿[C:\windows\system32\DRIVERS\bcmwl664.sys]
+SIZE=0
+SAMPS=3
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff88006c31000
+LINECOUNT=3
+4,24,1,1,[1 0] 1,0x3844b
+4,24,1,1,[1 0] 1,0x87f56
+0,0,1,1,[0 0] 1,0x8859c
+[SUB_END]
+[END]
+

@@ -1,0 +1,12 @@
+﻿[unknown module pid (8444)]
+SIZE=0
+SAMPS=1
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=1
+8444,8604,1,1,[0 0] 1,0x252498
+[SUB_END]
+[END]
+

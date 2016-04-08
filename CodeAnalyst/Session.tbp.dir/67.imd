@@ -1,0 +1,14 @@
+﻿[unknown module pid (6052)]
+SIZE=0
+SAMPS=3
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=3
+6052,2964,1,1,[2 0] 1,0x2f20ee
+6052,2964,1,1,[0 0] 1,0x2f2493
+6052,2964,1,1,[2 0] 1,0x9cd098c
+[SUB_END]
+[END]
+

@@ -1,0 +1,13 @@
+﻿[C:\windows\system32\DRIVERS\Rt64win7.sys]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff88006262000
+LINECOUNT=1
+0,0,1,1,[0 0] 1,0x4e802
+[SUB_END]
+[END]
+

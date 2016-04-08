@@ -1,0 +1,13 @@
+﻿[unknown module pid (1952)]
+SIZE=0
+SAMPS=2
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=2
+1952,8236,1,1,[0 0] 1,0x7761803f
+1952,3332,1,1,[2 0] 1,0x77642fcc
+[SUB_END]
+[END]
+

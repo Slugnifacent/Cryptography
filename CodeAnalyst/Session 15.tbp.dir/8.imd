@@ -1,0 +1,14 @@
+﻿[C:\windows\system32\DRIVERS\igdkmd64.sys]
+SIZE=0
+SAMPS=2
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff88005001000
+LINECOUNT=2
+6648,9152,1,1,[0 0] 1,0xfa07b
+6648,9152,1,1,[0 0] 1,0xfa939
+[SUB_END]
+[END]
+

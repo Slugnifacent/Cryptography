@@ -1,0 +1,13 @@
+﻿[C:\windows\syswow64\msvcrt.dll]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x756e0000
+LINECOUNT=1
+4804,672,1,1,[2 0] 1,0x9806
+[SUB_END]
+[END]
+
